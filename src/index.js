@@ -5,4 +5,4 @@ const Gravatar = () => {
   return <Avatar>3M</Avatar>;
 };
 
-export default Gravatar;
+module.exports = Gravatar;

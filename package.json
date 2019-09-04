@@ -1,7 +1,7 @@
 {
   "name": "react-material-gravatar",
   "description": "React component for rendering a gravatar profile image in material-ui way",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "author": "Mehdi Moshtaghi <moshtaghi.m@gmail.com>",
   "bugs": {
     "url": "https://github.com/moshtaghi/react-material-gravatar/issues"
